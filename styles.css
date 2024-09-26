@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   min-height: 100vh;
+}
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+.username{
+    margin: 10px;
+    padding: 5px;
+   
+}
+.passward{
+    margin: 10px;
+    width: 100%;
+}
+.hmm{
+    display: inline block;
+}
